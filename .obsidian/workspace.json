@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b8e7fd81af5a35f",
+        "id": "e587036a9a03b372",
         "type": "tabs",
         "children": [
           {
-            "id": "55df57b27b4a49a4",
+            "id": "dffb6476eed65318",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,31 @@
             }
           },
           {
-            "id": "114638090dd838b8",
+            "id": "9ebe52df11284c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Prelim 2/Elasticity and Revenue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4012844c62434278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economic Decision Making.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prelim 2/The Welfare State.md",
+                "file": "Economic Decision Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prelim 2/The Welfare State.md",
+                "file": "Economic Decision Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prelim 2/The Welfare State.md"
+                "file": "Economic Decision Making.md"
               }
             }
           }
@@ -158,22 +171,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55df57b27b4a49a4",
+  "active": "4012844c62434278",
   "lastOpenFiles": [
-    "README.md",
+    "Pasted image 20231004190146.png",
     "Prelim 2/Elasticity and Revenue.md",
+    "Economic Decision Making.md",
     "Prelim 2/The Welfare State.md",
     "Pasted image 20231004021937.png",
     "Pasted image 20231004003200.png",
     "Pasted image 20231003162136.png",
     "Pasted image 20231003162123.png",
     "Pasted image 20231003124237.png",
-    "Pasted image 20231003123653.png",
-    "Pasted image 20231003124210.png",
     "Pasted image 20231003124218.png",
-    "Pasted image 20231003123406.png",
+    "Pasted image 20231003124210.png",
+    "Pasted image 20231003123653.png",
     "Pasted image 20231003123651.png",
-    "Prelim 2/Lecture 10 - Elasticity, Revenue, Welfare State.md",
-    "Prelim 2"
+    "Pasted image 20231003123644.png",
+    "Prelim 2",
+    "README.md"
   ]
 }
