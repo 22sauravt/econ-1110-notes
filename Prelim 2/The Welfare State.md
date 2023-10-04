@@ -1,37 +1,8 @@
 #### Class: Econ 1110
-#### Date: 09/25/23 (September 25, 2023)
+#### Dates: 09/25/23 and 10/02/23
 
 ## Notes
-#### Reminder: Elasticity and Revenue
-- Elasticity across the demand curve
-  ![[Pasted image 20231003033604.png]]
-	- Elastic/inelastic and quantity of demand
-		- Elastic: quantity demand of product changes more than proportionally when price increases/decreases
-		- Inelastic: quantity of demand changes very little
-		- Unit elastic: % change in price = % change in demand
-- Elasticity rules (**E - elasticity, PE - price equilibrium, QE - quantity equilibrium**) 
-	- E < 1 (inelastic) --> | PE | > | QE |
-		- P increases --> revenue increases, P decreases --> revenue decreases
-		- P, revenue move together
-	- E > 1 (elastic) --> | PE | < | QE |
-		- P increases --> revenue decreases, P decreases --> revenue increases
-		- P, revenue move in opposite directions
-	- E = 1 (unit elastic) --> | PE | = | QE |
-		- P increases, decreases --> revenue unchanged
-	- Linear demand curves
-		- E starts above 1 at lower Q, crosses 1, then goes below 1 at higher Q
-- Total revenue calculation example
-	- Between points A and B
-	  ![[Pasted image 20231003120137.png]]
-		- Original TR is given by area of boxes x1, x2: `8 * 2 = 16`
-		- New TR is given by area of boxes x2, x3: `6 * 4 = 24`
-		- `24 > 16`, so as price ↑ revenue ↓ --> elastic (E starts above 1 at lower Q)
-	- Between points C and D
-	  ![[Pasted image 20231003120631.png]]
-		- Original TR is given by area of boxes x1, x2: `4 * 6 = 24`
-		- New TR is given by area of boxes x2, x3: `2 * 8 = 16` (rev. ↓ by $8)
-		- `16 < 24`, so as price ↓ revenue ↓ --> inelastic (E goes below 1 at higher Q)
-#### The Welfare State
+
 - What is welfare
 	- Govt. programs that alleviate economic hardship (disabled, poor, elderly, etc.)
 	- Paid through govt transfers (payments from govt to individuals/families)
@@ -126,3 +97,19 @@
 	  (d) All of the above
 		- Frozen pizza
 		  Explanation: SNAP cannot be used to by vitamins/medicines, so (a) is false. SNAP can be used to buy frozen pizzas, so (b) is true. SNAP can be used to buy poultry, but a fresh rotisserie chicken is likely not allowed to be purchased, so (c) is false. Since (a) and (c) are false, (d) is false. Thus, frozen pizza, which is (b) is the right answer. 
+- Health care in the US
+	- US govt plays a role, but far less than other developed countries
+		- Medicare, Medicaid subsidies for private health care payments
+	- Much of medical coverage in US is private companies
+	- Risk pooling is how private healthcare insurance works
+		- Allows higher costs of unhealthy to be offset by the lower costs of healthy
+	- Employer-based insurance spreads risk over employees in firm
+		- Govt subsidizes - employer contr. is removed from income + payroll taxes
+- The "Death Spiral"
+	- Risk pooling can go wrong due to adverse selection
+	- Example: ![[Pasted image 20231004021937.png]]
+		- If Person 1 leaves, insurance cost jumps to 5k
+		- Adverse selection results - individuals w/ higher risk buy insurance, while lower risk don't
+		- Causes imbalance in pool, driving up costs for company + premiums
+- Health Care in the US
+	- 
