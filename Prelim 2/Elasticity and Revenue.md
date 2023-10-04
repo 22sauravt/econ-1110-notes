@@ -1,5 +1,5 @@
 #### Class: Econ 1110
-#### Dates: 09/25/23 and 10/02/23
+#### Dates: 09/25/23
 
 ## Notes
 

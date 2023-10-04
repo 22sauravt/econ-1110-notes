@@ -80,7 +80,7 @@
 		- Requires people be working / looking for work + has time limits
 	- EITC (Earned Income Tax Credit)
 		- Provides tax rebates, effectively raising wage
-- Food Stamps and Medical
+- Food stamps and medical
 	- SNAP / Food Stamps (Supplemental Nutrition Assistance Program)
 		- Means-tested, in-kind
 	- Medicaid
@@ -105,6 +105,11 @@
 		- Allows higher costs of unhealthy to be offset by the lower costs of healthy
 	- Employer-based insurance spreads risk over employees in firm
 		- Govt subsidizes - employer contr. is removed from income + payroll taxes
+- Adverse selection vs moral hazard
+	- Adverse selection: people with different risk profiles make choices based on their risk
+	- Moral hazard: phenomenon that having insurance may change one's behavior
+- Stagflation
+	- Economy experiences stagnant growth, high unemployment, and high inflation
 - The "Death Spiral"
 	- Risk pooling can go wrong due to adverse selection
 	- Example: ![[Pasted image 20231004021937.png]]
@@ -134,4 +139,26 @@
 			- Offered Federal $ (90% of costs) to states that expanded Medicaid qualification to 137% of the poverty line
 			- ACA set up "exchanges" where people could compare private policies
 - Increasing coverage
-	- 
+	- Problem w/ old system is denial of coverage due to pre-existing conditions
+		- Companies deny to keep risk pool balanced
+	- Solution: (1) firms sell to everyone
+		- Adverse selection issue - healthy ppl will not buy due to high costs
+		- (2) make it illegal not to have insurance (type of individual mandate)
+			- Prevents healthy from not buying --> solves risk problem
+			- Can't afford --> (3) subsidize for low-income people
+- The ACA (Obamacare) historically
+	- Expanded coverage was a major success - 20 mil uninsured now have coverage
+	- Eliminated price differences across groups (can't charge diff rates by sex now)
+	- Market costs were high at first
+		- Few healthy ppl signed up
+		- Children stayed on parent's plan until 26 --> they can't buy individually
+			- Both led to companies losing money, dropping out ... less competition --> higher prices
+	- How to fix high market cost issue?
+		- Some say single-payer (govt health care), others more competition
+- Big picture welfare challenges
+	- How much welfare should we provide? We must pay for this via taxes
+	- Taxes cause DWL + higher tax rates --> negative incentives for work
+		- Ppl are less likely to work/invest/etc. if marginal earnings go to taxes
+	- Means-tested programs have issues 
+		- Removing welfare aid puts high tax rate on poor earning more
+		- Notch: pt where small income change --> large change in welfare benefits

@@ -5,4 +5,9 @@ These notes are divided into folders according to the prelim dates.
 Prelim 1: 9/27/23
 - 
 Prelim 2: 11/1/23
-- Lecture 10 (9/25/23) - Reminder: Elasticity and Revenue, The Welfare State
+- Lecture 10 (9/25/23) 
+	- Reminder: Elasticity and Revenue
+	- The Welfare State
+- Lecture 11 (10/02/23)
+	- The Welfare State
+	- Economic Decision Making
