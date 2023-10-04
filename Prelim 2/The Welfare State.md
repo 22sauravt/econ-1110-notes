@@ -111,5 +111,27 @@
 		- If Person 1 leaves, insurance cost jumps to 5k
 		- Adverse selection results - individuals w/ higher risk buy insurance, while lower risk don't
 		- Causes imbalance in pool, driving up costs for company + premiums
-- Health Care in the US
+- Govt health care in the US
+	- Many not covered by private insurance fall under govt insurance
+	- Medicare
+		- Available for > 65, no income cutoff
+	- Medicaid
+		- Means tested, covers many poor children
+	- Despite programs still tens of millions of elderly were uninsured in US
+- Uninsured
+	- Majority are low-income, part-time workers without work insurance
+	- Many children covered by SCHIP (State Children's Health Insurance Program)
+		- Provides help for low-income, above poverty-line families
+	- Problematic for adults, particularly those without children
+		- Not always a poverty issue --> many uninsured above poverty line
+	- Problems with uninsured
+		- Medical care can be very expensive
+		- Use emergency room for non-emergency care - very inefficient + costly
+- Health care reform
+	- Health care costs are rising
+	- Affordable Care Act (Obamacare)
+		- Increases insurance coverage + controls cost expansion
+			- Offered Federal $ (90% of costs) to states that expanded Medicaid qualification to 137% of the poverty line
+			- ACA set up "exchanges" where people could compare private policies
+- Increasing coverage
 	- 
