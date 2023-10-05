@@ -65,4 +65,8 @@
 	  `50 - 45 = 5`
 	  `53 - 50 = 3`
 	  `52 - 53 = -1`
-- 
+- Example #2 combining multiple cost + benefit concepts![[Pasted image 20231005160349.png]]
+	- Marginal cost = current total cost - previous total cost
+	- Marginal benefit = current total benefit - previous total benefit
+	- Economic profit = total benefit  - total cost (respectively)
+		- Formula: economic profit = revenue - (explicit costs + implicit costs)
