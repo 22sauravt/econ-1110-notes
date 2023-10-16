@@ -15,7 +15,9 @@
 		- Like opportunity cost from earlier - opportunity includes explicit + implicit
 		- Accounting profit vs economic profit
 			- Accounting profit = revenue - explicit costs
-			- Economic profit = revenue - (explicit costs + implicit costs)
+			- Economic profit
+				- revenue - (explicit costs + implicit costs)
+				- total benefit  - total cost (respectively)
 - Economic profit example
 	- Aluminum production is electricity intensive, so Kaiser Aluminum signed a multi-year deal @ 22.50 per megawatt hr for a factory in Cali
 	- Electricity prices spiked in CA in summer of 2000
@@ -35,6 +37,7 @@
 		- Means most profit as measured in units of dollars NOT most actual dollars
 - Benefits
 	- Marginal benefit
+		- Formula:  ∆TB (current total benefit - previous total benefit)
 		- Benefit you get from 1 more unit
 			- Just the next one, not all those before it
 			- i.e. How much is 1 more hour of sleep worth to you?
@@ -42,19 +45,24 @@
 		- Usually decreasing because people like variety
 			- More of the same thing yields less and less benefits, can go negative
 	- Total benefit
+		- Formula: cumulative sum of marginal benefit of every unit consumed
 		- How much better off from consuming the quantity I pick
 	- Average benefit
+		- Formula: TB / Q (total benefit / quantity)
 		- How much better off does each unit make me on avg?
 - Costs
 	- Marginal cost
+		- Formula: (∆TC) current total cost - previous total cost
 		- Additional cost to acquire/produce 1 more of the good or service
 			- Just the next one, not all those before it
 		- Can be increasing, decreasing, or constant
 			- Increasing --> take advantage of low hanging fruit first
 			- Constant --> buying multiple units of same thing at same price
 	- Total cost
+		- Formula: cumulative sum of marginal cost of every unit consumed
 		- How much did I have to give up for the quantity I pay
 	- Average cost
+		- Formula: TC/Q (total cost / quantity)
 		- How much, on avg, did each unit cost me?
 	- Keep increasing quantity as long as **MB of next unit >= MC of next unit**
 		- If MB = MC, go for it
@@ -66,7 +74,38 @@
 	  `53 - 50 = 3`
 	  `52 - 53 = -1`
 - Example #2 combining multiple cost + benefit concepts![[Pasted image 20231005160349.png]]
-	- Marginal cost = current total cost - previous total cost
-	- Marginal benefit = current total benefit - previous total benefit
-	- Economic profit = total benefit  - total cost (respectively)
-		- Formula: economic profit = revenue - (explicit costs + implicit costs)
+- Graphing marginal values
+	- Marginal values are about transition b/w quantities
+		- Line is run through the marginal values b/w the quantity pts
+			- Don't need to do this when axis increments are larger
+- Example (using batches of cookies ex. from above)
+	- Marginal benefit locations: 0.5, 1.5, 2.5 (at Q)
+		- If quantity axis increments are larger - don't need to worry about this
+![[Pasted image 20231016182659.png]]
+- Marginal cost + benefit combined graph example (using batches of cookies ex.)
+	- Right amount of cookies is 3 batches
+		- This is the optimal quantity - total profit is max (total benefit - total cost)
+	- MC/MB graphs cross at batches =3 -> this is the last unit where MB >= MC
+![[Pasted image 20231016183326.png]]
+- Wrap-Up
+	- Profit-maximizing principle of marginal analysis
+		- When making a profit-maximizing "how much" decision, the optimal quantity is the largest quantity at which marginal benefit is greater than or equal to marginal cost
+		- Means: if for the next unit MB >= MC, keep increasing Q
+- Decision type 3: sunk costs
+	- Sunk costs - costs that relative choices cannot change. Costs that have already been spent, cannot be recovered, and should be *ignored* in future decisions
+	- Ex: Lil Wayne rain debacle
+		- Outdoor Lil Wayne concert, but it is pouring rain
+		- It's free, will you go? No, I won't go
+		- You purchased a $50 ticket? No I won't go (sunk costs shouldn't change decision)
+	- Ex: Apartment debacle
+		- You put down a non-refundable $1k deposit on apt, rent = $500/month
+		- You find an identical place with $490/month rent, no deposit
+		- Will you choose the new place? Yes, I will choose new
+		- What if original deposit was $20 instead of $1k? Yes, I will choose new
+		- What if it was $200, $20k, etc.? Yes, I will choose new
+			- Sunk costs *do not* affect your decision regardless of size
+- Summary - rational decisions
+	- Either/or decisions should be made based on whichever choice gives greatest economic profit
+		- Have to worry about the implicit costs
+	- "How much" choices are made on the margin, where you always consider marginal cost vs marginal benefit
+	- Sunk cost should be ignored in marginal decisions, no matter how large
