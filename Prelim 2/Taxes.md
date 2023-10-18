@@ -54,4 +54,26 @@
 - Incidence and elasticity
 	- More elastic -> more sensitive to price (price includes tax)
 	- Less elastic -> less sensitive to price (price includes tax)
-	- 
+- Elastic supply, inelastic demand
+![[Pasted image 20231018185637.png]]
+- Elastic supply, elastic demand
+![[Pasted image 20231018190330.png]]
+- From above examples:
+	- Price elasticity of demand > price elasticity of supply -> larger share paid by buyers
+	- Price elasticity of supply > price elasticity of demand -> larger share paid by sellers
+- The revenue side
+	- How much tax does govt take in as result of an excise tax? (all below are the same)
+		- Amount of tax / unit * num units
+		- (Seller price - buyer price) * num units 
+		- (Distance b/w supply and demand curve at equilibrium quantity) * equilibrium quantity
+	- Tax revenue shown below
+![[Pasted image 20231018190828.png]]
+- Impact of changing tax
+	- Effect of raising taxes on lowering/raising revenue depends on elasticities
+		- Greater demand/supply elasticities -> more likely raising T lowers revenue
+		- Lower demand/supply elasticities -> more likely raising T raises revenue
+- Deadweight loss
+	- There is loss from market distortion of the tax
+		- We have lowered equilibrium quantity below what it would be if market was efficient
+![[Pasted image 20231018191249.png]]
+- 

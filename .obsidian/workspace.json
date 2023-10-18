@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b8e7fd81af5a35f",
+        "id": "1bdcc7b38dac1ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "55df57b27b4a49a4",
+            "id": "be6df1702ce96f70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Prelim 2/Taxes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2d9f0b31df9d588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prelim 2/The Rational Consumer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "114638090dd838b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,26 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55df57b27b4a49a4",
+  "active": "be6df1702ce96f70",
   "lastOpenFiles": [
-    "Pasted image 20231018022006.png",
-    "Pasted image 20231018022002.png",
-    "Pasted image 20231018021441.png",
-    "Prelim 2/The Rational Consumer.md",
+    "Pasted image 20231018191249.png",
+    "Pasted image 20231018190828.png",
     "Prelim 2/Taxes.md",
+    "Pasted image 20231018190330.png",
+    "Pasted image 20231018185637.png",
+    "Prelim 2/The Rational Consumer.md",
+    "Pasted image 20231018022006.png",
+    "Pasted image 20231018021441.png",
     "Pasted image 20231017201156.png",
-    "Pasted image 20231017201146.png",
-    "Prelim 2/Elasticity and Revenue.md",
     "Pasted image 20231016224505.png",
-    "Pasted image 20231016224432.png",
-    "Pasted image 20231016224445.png",
     "Pasted image 20231016223507.png",
     "Prelim 2/The Welfare State.md",
     "Prelim 2/Economic Decision Making.md",
-    "Pasted image 20231016183326.png",
-    "Pasted image 20231016182659.png",
-    "README.md",
-    "Prelim 2/Lecture 10 - Elasticity, Revenue, Welfare State.md",
-    "Prelim 2"
+    "Pasted image 20231016150842.png",
+    "Prelim 2/Elasticity and Revenue.md",
+    "Prelim 2",
+    "README.md"
   ]
 }
