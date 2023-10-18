@@ -66,4 +66,55 @@
 		- Ignore any bundles outside budget line (not possible)
 		- Don't want bundles inside budget line (not the best possible outcome)
 	- Ex below
-		- 
+- Approaching picking the optimal bundle
+	- Can graph all pts and check every single one, or approach logically
+	- Since (1) constraint is income and (2) economists think on the margin
+		- How much better off (in utility) does the next dollar spent on books make me? The next dollar spent on movies
+		- Marginal utility per dollar
+- Marginal utility per dollar
+	- MU/P is decreasing as we consume more of a good
+		- Price is constant, MU decreasing
+		- More of something -> less utility we get by spending another dollar
+	- Suggests people generally like variety
+		- I'd rather have some movies + some books
+		- Extremes are possible still - maybe someone hates movies
+- Finding the optimal bundle
+	- Taking a dollar from movies to spend on books makes sense if
+		- MU/P for books > MU/P for movies
+	- Taking a dollar from books to spend on movies makes sense if
+		- MU/P for books < MU/P for movies
+	- Do not shift money if neither condition above is true
+		- Infinitely divisible goods means MU/P for books = MU/P for movies
+			- Otherwise look for whole-point value as close as possible
+	- Ex. below
+![[Pasted image 20231017201156.png]]
+- From utility to demand
+	- What happens to optimal bundle when prices change?
+		- Marginal utility doesn't change, but marginal utility per dollar does
+		- Price increase -> MU/P goes down
+		- Price decrease -> MU/P goes up
+	- Ex: books and movies cont.
+		- Let's say price of books goes up
+		- Optimality means we must try to equate marginal utility per dollar
+			- Higher price of books -> lower MU of books
+				- So we must consume more movies since MU will get lower, and then MU/P will be lower
+				- Know this because MU decreases as consumption increases
+			- Consuming more movies means consuming fewer books
+				- That increases MU because less consumption
+			- So higher price -> lower demand, proving law of demand
+- Splitting up effects on demand
+	- Prices can change through 2 channels - relative prices + relative income
+		- i.e. someone spending all income on burritos or coffee
+- Substitution effect
+	- Price increase makes burritos cheaper, even though sticker price won't change
+	- When price of coffee rises, maximizing utility means substituting to burritos
+		- Opportunity cost of coffee increased
+		- Marginal utility per dollar of coffee decreases
+		- Substituting away to burritos looks more desirable
+- Income effect
+	- Higher price of coffee means you feel your buying power has decreased
+		- Change in "real income" due to price
+		- Consider how budget constraint changes in when price changes
+	- Plays a larger role when price increase is for
+		- Items that make up a large share of spending
+		- Items that don't have many substitutes
