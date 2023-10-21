@@ -76,4 +76,46 @@
 	- There is loss from market distortion of the tax
 		- We have lowered equilibrium quantity below what it would be if market was efficient
 ![[Pasted image 20231018191249.png]]
-- 
+- Graphing taxes review
+	- Excise tax drives "wedge" b/w price buyers see (increases) and price sellers see (decreases)
+		- Lowers CS per unit by (new buyer price - old price)
+		- Lowers PS per unit by (old price - new seller price)
+		- Decreases CS and PS by removing transactions that would have occurred at old price
+			- Some lost CS and PS goes to govt in revenue
+				- Still surplus so this is a transfer, not a loss
+				- But deadweight loss is a loss, NOT a transfer
+![[Pasted image 20231021002019.png]]
+- Other forms of the tax system
+	- Every tax has 2 basic elements - tax base and structure
+		- Tax base: value that determines tax
+		- Tax structure: how tax depends on base
+- Tax System
+	- Proportional: Same % regardless of base value
+	- Progressive: % rises with respect to base value
+	- Regressive: % falls with respect to base value
+- Efficiency vs equity
+	- Per unit taxes distort quantity choices
+	- Lump-sum taxes do not and so are more efficient -> can even avoid DWL
+		- But can be unfair since they don't adjust due to compensation
+		- Desire for equity pushes for benefit/ability-to-pay models
+- Equity and progressive taxation
+	- Federal income tax is progressive -> higher income means
+		- (1) more taxes to be paid (as a number)
+		- (2) larger percentage of income
+	- Regressive -> state taxes, social security, medicare
+	- In favor of progressive taxation -> fairness
+	- Against progressive taxation -> distorting
+		- Higher tax as income increases -> after tax earnings for each dollar get smaller
+		- Rewards to higher income are decreased under progressive taxation
+- Taxes in the US
+	- Mean tax rates vs marginal tax rates
+		- Mean: average tax rate paid on all income
+		- Marginal: tax rate paid on next/last dollar earned
+			- Make 250,001 is worse than making 249,999 if tax bracket ends at 250k -> some ppl called this silly during Obama administration
+- Marginal vs Mean ex
+	- For a single person:
+		- Marginal tax rate if someone earning 70k earns 1 more dollar?
+			- 22%
+		- Mean tax rate if they earn 70k?
+			- `0.10 * 11,000 + 0.12 * (44,725 - 11,000) + 0.22 * (70,000 - 44,725) = $10,707.5`. So then the rate is `10,707.5 / 70,000` which gives 15.3%
+![[Pasted image 20231021003006.png]]
